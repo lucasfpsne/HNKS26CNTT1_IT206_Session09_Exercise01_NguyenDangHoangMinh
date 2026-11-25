@@ -2,7 +2,7 @@
 
 **Version**: 1.0 
 **Date**: 2026-11-25 
-**Author**: Trái
+**Author**: Nguyễn Đặng Hoàng Minh
 
 ## 1. Project Overview
 
